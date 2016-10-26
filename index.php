@@ -1,4 +1,4 @@
-<!?php phpinfo(); ?>
+<?php echo "This is a PHP Statement"; ?>
 
 
 <html>
@@ -20,6 +20,6 @@ THen you should make the site look pretty .
 WHile you are doing this, you should add it all to github so that you can have emil and possibly joe check it out for you.
 
 
-</bodyu>
+</body>
 
 </html>
